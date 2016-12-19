@@ -20,6 +20,7 @@
 		006D3A2E1DFEACC800EE429A /* MainMenu.sks in Resources */ = {isa = PBXBuildFile; fileRef = 006D3A2D1DFEACC800EE429A /* MainMenu.sks */; };
 		006D3A301DFEAD1700EE429A /* MainMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 006D3A2F1DFEAD1700EE429A /* MainMenu.swift */; };
 		006D3A321DFEDE3F00EE429A /* Ball.sks in Resources */ = {isa = PBXBuildFile; fileRef = 006D3A311DFEDE3F00EE429A /* Ball.sks */; };
+		006D3A341E014F7F00EE429A /* Fire.sks in Resources */ = {isa = PBXBuildFile; fileRef = 006D3A331E014F7F00EE429A /* Fire.sks */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -59,6 +60,7 @@
 		006D3A2D1DFEACC800EE429A /* MainMenu.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = MainMenu.sks; sourceTree = "<group>"; };
 		006D3A2F1DFEAD1700EE429A /* MainMenu.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainMenu.swift; sourceTree = "<group>"; };
 		006D3A311DFEDE3F00EE429A /* Ball.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Ball.sks; sourceTree = "<group>"; };
+		006D3A331E014F7F00EE429A /* Fire.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Fire.sks; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,6 +118,7 @@
 				006D3A2F1DFEAD1700EE429A /* MainMenu.swift */,
 				006D39FD1DF5789F00EE429A /* Actions.sks */,
 				006D39FF1DF5789F00EE429A /* GameScene.swift */,
+				006D3A331E014F7F00EE429A /* Fire.sks */,
 				006D3A011DF5789F00EE429A /* GameViewController.swift */,
 				006D3A031DF5789F00EE429A /* Main.storyboard */,
 				006D3A061DF5789F00EE429A /* Assets.xcassets */,
@@ -258,6 +261,7 @@
 				006D39FC1DF5789F00EE429A /* GameScene.sks in Resources */,
 				006D3A071DF5789F00EE429A /* Assets.xcassets in Resources */,
 				006D3A0A1DF5789F00EE429A /* LaunchScreen.storyboard in Resources */,
+				006D3A341E014F7F00EE429A /* Fire.sks in Resources */,
 				006D39FE1DF5789F00EE429A /* Actions.sks in Resources */,
 				006D3A321DFEDE3F00EE429A /* Ball.sks in Resources */,
 			);
